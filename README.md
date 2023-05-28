@@ -27,7 +27,9 @@ RegisterNumber:212220040091
 */
 ```
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 from scipy import optimize
 
 data=np.loadtxt("ex2data1.txt",delimiter=',')
