@@ -27,6 +27,7 @@ import pandas as pd
 
 data=pd.read_csv('/content/Placement_Data.csv')
 
+
 data.head()
 
 data1=data.copy()
